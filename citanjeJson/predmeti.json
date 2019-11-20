@@ -1,0 +1,40 @@
+{
+    "predmeti": [
+        {
+            "naziv": "Matematika 1",
+            "semestar": 1,
+            "vrsta": "obavezni",
+            "broj_prijavljenih": 500
+        },
+        {
+            "naziv": "Matematika 2",
+            "semestar": 2,
+            "vrsta": "obavezni",
+            "broj_prijavljenih": 400
+        },
+        {
+            "naziv": "Matematika 3",
+            "semestar": 3,
+            "vrsta": "obavezni",
+            "broj_prijavljenih": 300
+        },
+        {
+            "naziv": "Programiranje 1",
+            "semestar": 2,
+            "vrsta": "obavezni",
+            "broj_prijavljenih": 500
+        },
+        {
+            "naziv": "Ekonomija",
+            "semestar": 1,
+            "vrsta": "obavezni",
+            "broj_prijavljenih": 400
+        },
+        {
+            "naziv": "Engleski 1",
+            "semestar": 1,
+            "vrsta": "obavezni",
+            "broj_prijavljenih": 400
+        }
+    ]
+}
